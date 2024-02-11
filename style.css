@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background:linear-gradient(rgb(169, 154, 103), rgb(94, 94, 145));
+   
+}
+input{
+    width: 20%;
+    background-color: rgb(187, 187, 187);
+    border-radius: 4px;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    margin-left: 40%;
+    margin-top: 10%;
+     
+}
+.card{
+    width: 50vw;
+    background-color: rgb(196, 177, 147);
+    margin-left: 25%;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.user-info h2{
+    color: rgb(50, 54, 54);
+}
+.user-info p{
+   margin-top: 2px;
+   color: rgb(48, 57, 57);
+   margin-bottom: 5px;
+}
+li{
+    color: rgb(45, 41, 49);
+}
+#repos{
+    margin-top: 10px;
+}
+a{
+    margin: 22px 12px 23px 24px;
+   
+}
